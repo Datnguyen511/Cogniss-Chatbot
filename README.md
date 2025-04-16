@@ -28,5 +28,9 @@ ChatbotRAG is a RAG system, which take in data (pdf or text file), analyze them 
 
 -navigate to the folder then run the command streamlit run chatbot.py to run the chatbot.
 
+What to do from now: 
+-Keep on working with the dataset. As far as I can tell we cannot create a good dataset 100% automatically. Amount of manual work needed to do is depend on what way we are generating the dataset. 
+-Or decide to RAG, and improve the RAG system, as well as work to implement the GUI as a function for Cogniss website/for our customers' websites
+
 
 
